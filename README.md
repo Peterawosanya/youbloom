@@ -1,4 +1,4 @@
-# Youbloom Technical task-React Demo App
+# Youbloom Technical Task-React Demo App
 
 A modern React application built for technical interview demonstration, featuring authentication, API integration, and responsive design.
 
